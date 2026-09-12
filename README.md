@@ -138,9 +138,9 @@ focus on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anupam-kumar-bb088a328/?utm_source=chatgpt.com)
+- 📧 Email: anupamsingha806@gmail.com
+- 🌐 Portfolio:  [Anupam Kumar | Creative Developer](https://anupam-creatives.vercel.app/)
 - 💻 GitHub: [@Anupam477](https://github.com/Anupam477)
 
 ---
