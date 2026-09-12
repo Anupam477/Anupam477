@@ -93,38 +93,15 @@ experience and development journey.
 
 ---
 
-## 🧠 DSA & Problem Solving
-
-Currently preparing for software development placements with
-focus on:
-
-- Arrays
-- Searching & Sorting
-- Two Pointers
-- Sliding Window
-- Hashing
-- Stack & Queue
-- Recursion & Backtracking
-- Linked List
-- Binary Tree & BST
-- Heap & Priority Queue
-- Greedy Algorithms
-- Graphs
-- Dynamic Programming
-
-**Language:** Java ☕
-
----
-
 ## 📚 Currently Learning
 
-- Advanced DSA
-- Full Stack Development
-- Backend Development
-- REST APIs
-- AI-powered applications
-- System Design Fundamentals
-- Database & SQL
+- 🧠 Advanced DSA & Problem Solving — Java
+- 💻 Full Stack & Backend Development
+- 🤖 AI-powered Web Applications
+- 🔗 REST APIs & Backend Architecture
+- 🗄️ SQL & Database Management
+- 🏗️ System Design Fundamentals
+- 🚀 Production-Ready Project Development
 
 ---
 
